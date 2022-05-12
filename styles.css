@@ -1,0 +1,47 @@
+body {
+	background-color: white;
+}
+
+.Clearance {
+	font-family:'Quicksand', sans-serif;
+    display:flex;
+    justify-content: center;
+    background-color: #ff80ff;
+}
+
+.title {
+	font-family:'Chonburi', cursive; 
+    color: black;
+    background-color: white;
+}
+
+h1 {
+	font-family:'Chonburi', cursive; 
+    color: black;
+}
+
+nav {
+	display: flex;
+    justify-content: space-around;
+    font-family:'Chonburi', cursive; 
+    color: black;
+}
+
+.percent-off {
+	display: flex;
+    justify-content: space-around;
+    margin: 5px;
+}
+ 
+.image1 {
+	display: flex;
+    justify-content: space-around;
+}
+
+.shirt-image {
+	width: 200px;
+}
+
+.jeans {
+	width: 200px;
+}
